@@ -106,9 +106,9 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 
 ## 👨‍💻 Author
 
-**ur name **  
-Aspiring AI/ML Engineer | Data Enthusiast  
-📫 [LinkedIn] your linkdin link 
+**Mudadla Sudheer Sai Kumar **  
+Aspiring  Data Engineer  
+📫 [mss-kumar-6a7a192b8] your linkdin link 
 
 
 ---
